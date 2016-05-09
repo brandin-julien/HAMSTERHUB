@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b696947-4a02-4977-b72b-82bb0c900285" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\02\5b464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164246e756d436f6d6d656e7473405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\04\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c65722372656d6f7665546872656164436f6d6d656e74416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\04\5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164246e756d436f6d6d656e7473405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\09\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223676574546872656164436f6d6d656e74566f746573416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\13\5b464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164246c617374436f6d6d656e744174405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\13\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572236e6577546872656164436f6d6d656e7473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\17\5b5b435d48616d7374657248756242756e646c655c456e746974795c546872656164405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\17\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f246465736372697074696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\1a\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223676574546872656164436f6d6d656e7473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\1b\5b5b435d53796d666f6e795c42756e646c655c4173736574696342756e646c655c436f6e74726f6c6c65725c41737365746963436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\22\5b48616d7374657248756242756e646c655c456e746974795c546872656164405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\23\5b48616d7374657248756242756e646c655c456e746974795c566964656f246465736372697074696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\2a\5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164247065726d616c696e6b405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\2b\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f24696d674964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\2c\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236372656174654e6f74466f756e64457863657074696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\30\5b48616d7374657248756242756e646c655c456e746974795c566964656f405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\31\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572237061746368546872656164436f6d6d656e7461626c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\38\5b48616d7374657248756242756e646c655c456e746974795c566964656f246964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\39\5b48616d7374657248756242756e646c655c456e746974795c566964656f246e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\3b\5b5b435d48616d7374657248756242756e646c655c456e746974795c546872656164246964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\41\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c65722365646974546872656164436f6d6d656e74416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\47\5b464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572236e6577546872656164436f6d6d656e74566f746573416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\48\5b464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164246973436f6d6d656e7461626c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\4a\5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164246973436f6d6d656e7461626c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\4a\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374546f526f757465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\51\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f2475706c6f616444617465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\59\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722364656e79416363657373556e6c6573734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\71\5b464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c65722372656d6f7665546872656164436f6d6d656e74416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\71\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223697343737266546f6b656e56616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\72\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f246964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\75\5b48616d7374657248756242756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\7c\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f246e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\7f\5b464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c65722365646974546872656164436f6d6d656e7461626c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\86\5b48616d7374657248756242756e646c655c456e746974795c546872656164246964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\90\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f24757365724964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\92\5b464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223706f7374546872656164436f6d6d656e74566f746573416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\99\5b5b435d53796d666f6e795c42756e646c655c4173736574696342756e646c655c436f6e74726f6c6c65725c41737365746963436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\9f\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\a5\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d4275696c646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\a7\5b464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572237061746368546872656164436f6d6d656e745374617465416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\a7\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223706f7374546872656164436f6d6d656e7473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\a9\5b5b435d48616d7374657248756242756e646c655c456e746974795c566964656f246c696e6b405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\b1\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722364656e79416363657373556e6c6573734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\b2\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223676574546872656164436f6d6d656e74416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\b3\5b464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223676574546872656164436f6d6d656e74566f746573416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\bd\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223707574546872656164436f6d6d656e7473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\be\5b48616d7374657248756242756e646c655c456e746974795c566964656f24696d674964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\c3\5b464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572237061746368546872656164436f6d6d656e7461626c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\c8\5b53796d666f6e795c42756e646c655c4173736574696342756e646c655c436f6e74726f6c6c65725c41737365746963436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\ca\5b464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164247065726d616c696e6b405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\d3\5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722363726561746541636365737344656e696564457863657074696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\d8\5b48616d7374657248756242756e646c655c456e746974795c566964656f2475706c6f616444617465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\db\5b48616d7374657248756242756e646c655c456e746974795c566964656f246c696e6b405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\db\5b5b435d48616d7374657248756242756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\ea\5b48616d7374657248756242756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\ec\5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c546872656164246c617374436f6d6d656e744174405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\ec\5b5b435d48616d7374657248756242756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\ee\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c65722365646974546872656164436f6d6d656e7461626c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\f2\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572237061746368546872656164436f6d6d656e745374617465416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\f3\5b48616d7374657248756242756e646c655c456e746974795c566964656f24757365724964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\f3\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572236e6577546872656164436f6d6d656e74566f746573416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\f5\5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223706f7374546872656164436f6d6d656e74566f746573416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\fb\5b53796d666f6e795c42756e646c655c4173736574696342756e646c655c436f6e74726f6c6c65725c41737365746963436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\annotations\fd\5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236372656174654e6f74466f756e64457863657074696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\assetic\assets\010039f5fc43502b56ded608accd4e04" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\profiler\4a\70\b4704a" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\twig\c2\c28db18476ece6e2434545bff768455b9ec2fb1f2570cc0d613d030d3ce42353.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app\cache\dev\twig\d9\d9533c2011dc68923d18902d47652ee4b5e6e0792273e006749fdf3e79d01d39.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Julien\Documents\GitHub\HAMSTERHUB\web\bundles\framework" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/0/079c1d1cf5ae3019bfb631890242f06e.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/0/079c1d1cf5ae3019bfb631890242f06e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/108867ea5c595269cff6d0ad1fcd657d.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/108867ea5c595269cff6d0ad1fcd657d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/1a7a71d888cf60a393dc2dcb520c76ac.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/1a7a71d888cf60a393dc2dcb520c76ac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/2/21d8acb93f3c7f5d3a42513c962f1ce7.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/2/21d8acb93f3c7f5d3a42513c962f1ce7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/3/37d5e3c6fb6c3025bb3b4cba2bf85368.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/3/37d5e3c6fb6c3025bb3b4cba2bf85368.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/3/3c053a50a9e99522d803783fcaeaec8a.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/3/3c053a50a9e99522d803783fcaeaec8a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/4e1416f1b550505aa2acf05dad2015b8.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/4e1416f1b550505aa2acf05dad2015b8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/00/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/00/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/95/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/95/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d1/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223676574546872656164416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/d1/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223676574546872656164416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a1/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c65722367657454687265616473416374696f6e73405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a1/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c65722367657454687265616473416374696f6e73405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/f5/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572236e657754687265616473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/f5/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572236e657754687265616473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a3/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223706f737454687265616473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a3/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c657223706f737454687265616473416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/16/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/16/5b5b435d464f535c436f6d6d656e7442756e646c655c436f6e74726f6c6c65725c546872656164436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/7a/5b5b435d464f535c436f6d6d656e7442756e646c655c456e746974795c436f6d6d656e7424616e636573746f7273405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/7a/5b5b435d464f535c436f6d6d656e7442756e646c655c456e746974795c436f6d6d656e7424616e636573746f7273405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/de/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e7424626f6479405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/de/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e7424626f6479405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/89/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e7424637265617465644174405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/89/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e7424637265617465644174405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e4/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e74246465707468405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e4/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e74246465707468405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/3c/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e7424706172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/3c/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e7424706172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/75/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e742470726576696f75735374617465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/75/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e742470726576696f75735374617465405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/76/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e74247374617465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/76/5b5b435d464f535c436f6d6d656e7442756e646c655c4d6f64656c5c436f6d6d656e74247374617465405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/1d/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224636f6e6669726d6174696f6e546f6b656e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/1d/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224636f6e6669726d6174696f6e546f6b656e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e8/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722463726564656e7469616c734578706972654174405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e8/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722463726564656e7469616c734578706972654174405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/48/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722463726564656e7469616c7345787069726564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/48/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722463726564656e7469616c7345787069726564405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e1/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224656d61696c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e1/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224656d61696c405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c2/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224656d61696c43616e6f6e6963616c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c2/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224656d61696c43616e6f6e6963616c405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/10/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224656e61626c6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/10/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224656e61626c6564405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/13/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722465787069726564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/13/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722465787069726564405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/13/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224657870697265734174405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/13/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224657870697265734174405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/3d/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722467726f757073405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/3d/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722467726f757073405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/cf/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c55736572246c6173744c6f67696e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/cf/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c55736572246c6173744c6f67696e405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/74/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c55736572246c6f636b6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/74/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c55736572246c6f636b6564405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/2b/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722470617373776f7264405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/2b/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722470617373776f7264405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/80/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722470617373776f72645265717565737465644174405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/80/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722470617373776f72645265717565737465644174405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4e/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224706c61696e50617373776f7264405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/4e/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224706c61696e50617373776f7264405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e2/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224726f6c6573405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e2/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224726f6c6573405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/f1/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722473616c74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/f1/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c557365722473616c74405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/26/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224757365726e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/26/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224757365726e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6f/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224757365726e616d6543616e6f6e6963616c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6f/5b5b435d464f535c5573657242756e646c655c4d6f64656c5c5573657224757365726e616d6543616e6f6e6963616c405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b0/5b5b435d48616d7374657248756242756e646c655c456e746974795c436f6d6d656e74246964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/b0/5b5b435d48616d7374657248756242756e646c655c456e746974795c436f6d6d656e74246964405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/78/5b5b435d48616d7374657248756242756e646c655c456e746974795c436f6d6d656e7424746872656164405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/78/5b5b435d48616d7374657248756242756e646c655c456e746974795c436f6d6d656e7424746872656164405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b2/5b5b435d48616d7374657248756242756e646c655c456e746974795c436f6d6d656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/b2/5b5b435d48616d7374657248756242756e646c655c456e746974795c436f6d6d656e74405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/93/5b5b435d48616d7374657248756242756e646c655c456e746974795c557365722466697273746e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/93/5b5b435d48616d7374657248756242756e646c655c456e746974795c557365722466697273746e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/54/5b5b435d48616d7374657248756242756e646c655c456e746974795c55736572246964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/54/5b5b435d48616d7374657248756242756e646c655c456e746974795c55736572246964405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/2e/5b5b435d48616d7374657248756242756e646c655c456e746974795c55736572246c6173746e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/2e/5b5b435d48616d7374657248756242756e646c655c456e746974795c55736572246c6173746e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/52/5b5b435d48616d7374657248756242756e646c655c456e746974795c55736572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/52/5b5b435d48616d7374657248756242756e646c655c456e746974795c55736572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/8d/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c617368405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/8d/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c617368405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b0/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/b0/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/8c/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f7277617264405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/8c/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f7277617264405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c7/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c7/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b8/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/b8/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/fe/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/fe/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e65405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/22/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d65746572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/22/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d65746572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657452657175657374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657452657175657374405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/34/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657455736572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/34/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367657455736572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/35/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223686173405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/35/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223686173405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/40/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/40/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e746564405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/85/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/85/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/87/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/87/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/14/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e64657256696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/14/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e64657256696577405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/96/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/96/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/53/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/53/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/15/5b5b435d53796d666f6e795c436f6d706f6e656e745c446570656e64656e6379496e6a656374696f6e5c436f6e7461696e6572417761726523736574436f6e7461696e6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/15/5b5b435d53796d666f6e795c436f6d706f6e656e745c446570656e64656e6379496e6a656374696f6e5c436f6e7461696e6572417761726523736574436f6e7461696e6572405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/15/5b5b435d53796d666f6e795c436f6d706f6e656e745c446570656e64656e6379496e6a656374696f6e5c436f6e7461696e65724177617265405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/15/5b5b435d53796d666f6e795c436f6d706f6e656e745c446570656e64656e6379496e6a656374696f6e5c436f6e7461696e65724177617265405b416e6e6f745d5d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/5/5c926c27d8e3f93566880db9c36dc366.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/5/5c926c27d8e3f93566880db9c36dc366.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/6/6fdbc69e25d28d96f4515d8edd2710d3.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/6/6fdbc69e25d28d96f4515d8edd2710d3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7141ec3ac97eb1f3f930f3d4d9a85e7d.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7141ec3ac97eb1f3f930f3d4d9a85e7d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7216f7ce0ff7836d7b69b6ea6a1d054a.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7216f7ce0ff7836d7b69b6ea6a1d054a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/742ef347b450641026934c639bbf4c42.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/742ef347b450641026934c639bbf4c42.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/83f21293cd63b49c57b8105438bb73a0.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/83f21293cd63b49c57b8105438bb73a0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/SymfonyRequirements.php" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/55/_55b65ae7e00ea5d475dd22e9573e66380afa10b625cad5f8893b04ca915a1e08.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/55/_55b65ae7e00ea5d475dd22e9573e66380afa10b625cad5f8893b04ca915a1e08.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/b/b160d7efd8c18d67b7b1f2aa987d98ac.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/b/b160d7efd8c18d67b7b1f2aa987d98ac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bootstrap.php.cache" afterPath="$PROJECT_DIR$/app/bootstrap.php.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/check.php" afterPath="$PROJECT_DIR$/app/check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/config.php" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
+    </list>
+    <ignored path="HAMSTERHUB.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HAMSTERHUB" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HamsterHubBundle/Entity/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.68372095">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HamsterHubBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HAMSTERHUB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HamsterHubBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/symfony/HAMSTERHUB - Copie" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b696947-4a02-4977-b72b-82bb0c900285" name="Default" comment="" />
+      <created>1462661423932</created>
+      <option name="number" value="Default" />
+      <updated>1462661423932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HamsterHubBundle/Repository/UserRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HamsterHubBundle/Entity/Video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HamsterHubBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HamsterHubBundle/HamsterHubBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HamsterHubBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68372095">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

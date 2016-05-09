@@ -1,0 +1,14 @@
+{% for video in videos %}
+    <div class="contentVideo">
+        <div class="videoBlock">
+            <a class="video" href="../video/{{ video.id }}">
+                <img src={{ video.image }} alt="">
+                <h3>{{ video.name }}</h3>
+            </a>
+        </div>
+    </div>
+{% endfor %}
+
+{% block stylesheets %}
+    <link rel="stylesheet" href="{{ asset('bundles/framework/css/video.css') }}" type="text/css" media="all" />
+{% endblock %}

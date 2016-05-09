@@ -1,0 +1,19 @@
+video_homepage:
+    path:     /
+    defaults: { _controller: VideoBundle:Default:index }
+
+video_id:
+    path:     /video/{id}
+    defaults: { _controller: VideoBundle:Default:video ,  id: 1 }
+
+video_upload:
+    path:     /upload
+    defaults: { _controller: VideoBundle:Default:upload }
+
+video_myVideos:
+    path:     /myVideos
+    defaults: { _controller: VideoBundle:Default:myVideos }
+
+video_userVideo:
+    path:     /userVideo/{id}
+    defaults: { _controller: VideoBundle:Default:userVideo, id: 1 }

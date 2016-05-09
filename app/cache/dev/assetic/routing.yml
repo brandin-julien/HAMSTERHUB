@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: 'C:\wamp\www\Hamster_Hub\app/config/routing_dev.yml'
+    resource: 'C:\Users\Julien\Documents\GitHub\HAMSTERHUB\app/config/routing_dev.yml'

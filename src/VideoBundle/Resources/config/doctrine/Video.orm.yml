@@ -1,0 +1,26 @@
+VideoBundle\Entity\Video:
+    type: entity
+    table: null
+    repositoryClass: VideoBundle\Repository\VideoRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+        url:
+            type: string
+            length: 255
+        description:
+            type: text
+        image:
+            type: string
+            length: 255
+        userId:
+            type: integer
+            column: user_id
+    lifecycleCallbacks: {  }
