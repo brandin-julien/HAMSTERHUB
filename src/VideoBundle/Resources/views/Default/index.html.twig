@@ -1,36 +1,21 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-	<link rel="stylesheet" href="{{ asset('bundles/framework/css/styles.css') }}" type="text/css" media="all" />
-</head>
-<body>
-	<header>
-		<div class='logo'>HamsterHub</div>
-			<ul class='ongletBlock'>
-                <li><a href="..">Acceuil</a></li>
-                {% if is_granted("IS_AUTHENTICATED_REMEMBERED") %}
-                   	<li><a href="../profile">Profil</a></li>
-                    <li><a href="../logout">Déconexion</a></li>
-                {% else %}
-                    <li><a href="../register">Inscription</a></li>
-                	<li><a href="../login">Connexion</a></li>
-            	{% endif %}
-            </ul>
-	</header>
-	{% for video in videos %}
-    	<div class="contentVideo">
-    		<div class="videoBlock">
-        		<a class="video" href="video/{{ video.id }}">
-        			<img src={{ video.image }} alt="">
-            		<h3>{{ video.name }}</h3>
-            	</a>
-        	</div>
-    	</div>
-	{% endfor %}
-	{% block stylesheets %}
-	{% endblock %}
-<footer class='footer'>
-	&copy; Julien Brandin & Jean-Philippe Isungu
-</footer>
-</body>
-</html>
+{# app/Resources/views/head.html.twig #}
+{# app/Resources/views/footer.html.twig #}
+
+{% include 'head.html.twig' %}
+
+<div class="allVideo">
+    {% for video in videos %}
+        <div class="contentVideo">
+                <div class="videoBlock">
+                    <a class="videoLink" href="video/{{ video.id }}">
+                        <img src={{ video.image }} alt="">
+                    </a>
+                    <a class="videoLink" href="video/{{ video.id }}">
+                        <h3>{{ video.name }}</h3>
+                    </a>
+                </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% include 'footer.html.twig' %}

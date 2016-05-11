@@ -64,8 +64,9 @@ class DefaultController extends Controller
                 );
                 $em->persist($video);
                 $em->flush();
+                var_dump($requette[0]);
                 return $this->render('VideoBundle:Default:video.html.twig',
-                    array('video' => $requette[0])
+                    array('video' => $requette[0], 'name' => $_SESSION['pseudo'])
                 );
             }
         }

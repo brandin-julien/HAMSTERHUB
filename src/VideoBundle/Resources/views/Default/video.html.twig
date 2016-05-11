@@ -1,7 +1,15 @@
+{# app/Resources/views/head.html.twig #}
+{# app/Resources/views/footer.html.twig #}
 
+{% include 'head.html.twig' %}
+<div class="video">
+    <iframe src={{ video.url }} frameborder="0" allowfullscreen></iframe>
+    <br>
+    <div class="userVideo">{{ video.name }}</div>
+    <br>
+    <a class="userName" href="../userVideo/{{ video.userId }}">par {{ name }}</a>
+    <br>
+    <div class="videoDescription">{{ video.description }}</div>
+</div>
 
-<iframe width="560" height="315" src={{ video.url }} frameborder="0" allowfullscreen></iframe>
-
-<h3>{{ video.name }}</h3> par <a href="../userVideo/{{ video.userId }}"><span> {{ name }}</span></a>
-
-<div class="videoDescription">{{ video.description }}</div>
+{% include 'footer.html.twig' %}

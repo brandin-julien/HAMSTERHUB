@@ -1,14 +1,19 @@
-{% for video in videos %}
-    <div class="contentVideo">
-        <div class="videoBlock">
-            <a class="video" href="../video/{{ video.id }}">
-                <img src={{ video.image }} alt="">
-                <h3>{{ video.name }}</h3>
-            </a>
-        </div>
-    </div>
-{% endfor %}
+{# app/Resources/views/head.html.twig #}
+{# app/Resources/views/footer.html.twig #}
 
-{% block stylesheets %}
-    <link rel="stylesheet" href="{{ asset('bundles/framework/css/video.css') }}" type="text/css" media="all" />
-{% endblock %}
+{% include 'head.html.twig' %}
+
+<div class="allVideo">
+    {% for video in videos %}
+        <div class="contentVideo">
+            <div class="videoBlock">
+                <a class="videoLink" href="../video/{{ video.id }}">
+                    <img src={{ video.image }} alt="">
+                    <h3>{{ video.name }}</h3>
+                </a>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% include 'footer.html.twig' %}
