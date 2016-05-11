@@ -1,0 +1,52 @@
+@font-face {
+  font-family: Roboto;
+  src: url(../font/roboto/Roboto-Regular.ttf); }
+body {
+  margin: 0;
+  font-family: Roboto; }
+
+header {
+  display: block;
+  width: 100%;
+  height: 15%;
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-weight: bold; }
+
+.logo {
+  font-size: 2rem; }
+
+.ongletBlock {
+  text-align: center;
+  text-transform: uppercase; }
+  .ongletBlock li {
+    display: inline-block;
+    padding: 0px 30px; }
+    .ongletBlock li a {
+      text-decoration: none;
+      color: white; }
+
+.container {
+  display: block;
+  margin: 0 3% 21% 3%;
+  padding: 0 0 16% 2%;
+  background-color: #bbb;
+  border: 4px solid white;
+  border-radius: 22px;
+  box-shadow: -1px 3px 14px #656565; }
+
+.formMessage {
+  margin-top: 2%; }
+
+.footer {
+  display: block;
+  width: 100%;
+  height: 15%;
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  padding: 1%; }
+
+/*# sourceMappingURL=styles.css.map */
